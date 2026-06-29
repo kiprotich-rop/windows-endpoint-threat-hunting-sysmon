@@ -1,0 +1,29 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+
+# IDE Files
+.vscode/
+.idea/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+.env.*
+
+# Backup Files
+*.bak
+*.old
+*~
